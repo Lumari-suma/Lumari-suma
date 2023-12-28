@@ -30,6 +30,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-plain.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
