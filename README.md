@@ -13,7 +13,7 @@
 - 💻 Estoy aprendiendo NEXT, Remix, Tailwind, Vue.js y MongoDB.
 - 🤝 Busco colaborar en una empresa con un buen ambiente laboral, y que me de la oportunidad de trabajar en modalidad hibrido o remoto.
 - 💬 Pregúntame sobre JavaScript, React, Redux, PosgreSQL y Sequeliza.
-- 📨 Me puedes contactar: a mi E-mail: luz.rivase@gmail.com, o a mi teléfono: +56 9 73545307 (Chile)
+- 📨 Me puedes contactar: a mi E-mail: luz.rivase@gmail.com
 - 😊 Pronombre: Lulú
 - 💕 Un poco más: También me dedico hacer terapias complementarias (Flores de Bach y Reiki), me encanta la espiritualidad y la naturaleza.
 
