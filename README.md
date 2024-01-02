@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <h1 align="center">Hola👋 Mi nombre es Luz Rivas</h1>
-  <h3 align="center">Me apasiona el desarrollo web fullstack y el diseño web. Estoy preparada para asumir nuevos desafíos y seguir aprendiendo. Me gustaría que algún día pueda enseñar todo lo que haya aprendido como desarrolladora web.
+  <h3 align="center">Mi conjunto de habilidades abarca tecnologías clave como JavaScript, React, Redux, Node.js, PostgreSQL, Entre otros. Es una carrera que acabo de comenzar, y me encantaría poder tener la oportunidad de demostrar un compromiso inquebrantable con la excelencia técnica y la entrega exitosa de proyectos.Me apasiona el desarrollo web fullstack y el diseño web. Estoy preparada para asumir nuevos desafíos y seguir aprendiendo. Me gustaría que algún día pueda enseñar todo lo que haya aprendido como desarrolladora web.
     Vivo en Santiago de Chile, y Desde muy joven me ha gustado el mundo de la tecnología. A mis 37 años he cumplido uno de mis sueños que es ser programadora web. Me siento muy motivada y con ganas de seguir aprendiendo. Tengo experiencia en manejo de grupos, organizar, coordinar entre otras cosas. Me considero una persona resolutiva, constante, honesta, alegre y autoexigente. Es facil para mi trabajar en equipo.
   </h3>
 </div>
